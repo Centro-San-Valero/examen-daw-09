@@ -2,6 +2,7 @@
 
 
 
-![alt text](temperaturas.png)
+![alt text](Temperaturas.png)
+
 
 
